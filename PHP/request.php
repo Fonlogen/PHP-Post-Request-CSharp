@@ -1,5 +1,5 @@
 <?php
-    $cognome = $_POST['examplestring'];
+    $examplestring = $_POST['examplestring'];
 
     $host = "localhost";
     $user = "root";
