@@ -8,7 +8,7 @@
 
     $db_connection = mysqli_connect($host, $user, $pass, $name);
 
-    $query_string = "SELECT examplestring2 FROM clienti WHERE examplestring = '{$examplestring}'";
+    $query_string = "SELECT examplestring2 FROM exampletable WHERE examplestring = '{$examplestring}'";
     $query_result = $db_connection->query($query_string);
 
     if ($query_result->num_rows > 0) {
