@@ -1,0 +1,17 @@
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\RequestExample.exe
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\RequestExample.deps.json
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\RequestExample.runtimeconfig.json
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\RequestExample.runtimeconfig.dev.json
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\RequestExample.dll
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\RequestExample.pdb
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.csprojAssemblyReference.cache
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.Form1.resources
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.csproj.GenerateResource.cache
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.AssemblyInfoInputs.cache
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.AssemblyInfo.cs
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.csproj.CoreCompileInputs.cache
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.dll
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.pdb
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.genruntimeconfig.cache
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\infof\Documents\GitHub\PHP-Post-Request-CSharp\RequestExample\obj\Debug\netcoreapp3.1\RequestExample.csproj.CopyComplete

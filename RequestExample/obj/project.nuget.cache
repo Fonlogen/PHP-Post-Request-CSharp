@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbLGWzsUcM5dacg0f/fMtLaRnrH+tKHFQ4s6ZgsNgxOlGe+vlTDruRMdQuTzTIEBfHjm5xQGGBm9msrBCEQ14g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\infof\\Documents\\GitHub\\PHP-Post-Request-CSharp\\RequestExample\\RequestExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\infof\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
+  "logs": []
+}
